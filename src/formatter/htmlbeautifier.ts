@@ -215,3 +215,4 @@ export default class HtmlBeautifier {
     return ""; // Return empty if no newline found
   }
 }
+

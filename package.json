@@ -4,12 +4,12 @@
     "description": "Format/Beautify ERB files",
     "version": "0.5.0",
     "icon": "images/icon.png",
-    "publisher": "aliariff",
+    "publisher": "vvvrrooomm",
     "license": "MIT",
-    "bugs": "https://github.com/aliariff/vscode-erb-beautify/issues",
+    "bugs": "https://github.com/vvvrrooomm/vscode-erb-beautify/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aliariff/vscode-erb-beautify"
+        "url": "https://github.com/vvvrrooomm/vscode-erb-beautify"
     },
     "engines": {
         "vscode": "^1.80.0"
