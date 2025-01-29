@@ -71,7 +71,7 @@
         "vscode-erb-beautify.stopOnErrors": {
           "type": "boolean",
           "default": false,
-          "description": "Stop when invalid nesting is encountered in the input"
+          "description": "Stop when invalid nesting is encountered in the input. Errors will show in the problem window"
         },
         "vscode-erb-beautify.keepBlankLines": {
           "type": "number",
